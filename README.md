@@ -39,3 +39,10 @@
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<br>
+
+### 🧑‍💻 Projects
+
+#### 💼 [[백엔드_팀] 검색 데이터 활용 타겟팅 광고 시스템 - Heart Link (커플SNS)](https://github.com/YeBook99/Heart-Link_backend.git)
+#### 💼 [[풀스택_팀] 실시간 영화 예매 사이트 - JERRY MOVIE](https://github.com/YeBook99/-Jerry-Movie.git)
